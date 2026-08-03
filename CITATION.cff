@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "Calibrating WEAT against Anisotropy"
+message: "If you use this software, please cite the paper below."
+authors:
+  - family-names: Ono
+    given-names: Seitaro
+    affiliation: Kyoto University
+  - family-names: Ross
+    given-names: Senna
+    affiliation: Brock University
+  - family-names: Saiki
+    given-names: Jun
+    affiliation: Kyoto University
+preferred-citation:
+  type: conference-paper
+  title: "Calibrating WEAT against Anisotropy: ZCA Whitening as a Geometric Pre-Processing Step for Embedding Association Tests"
+  authors:
+    - family-names: Ono
+      given-names: Seitaro
+    - family-names: Ross
+      given-names: Senna
+    - family-names: Saiki
+      given-names: Jun
+  collection-title: "Proceedings of the 9th AAAI/ACM Conference on AI, Ethics, and Society (AIES 2026)"
+  year: 2026
